@@ -9,6 +9,8 @@ clone code to local.
   
     git clone https://github.com/SCVA/featmap-docker
 
+    cd featmap-docker
+
 Execute in the project directory:
 
     docker compose up -d
