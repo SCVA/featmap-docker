@@ -7,11 +7,11 @@ pre-built featmap docker image &amp; configuration.
 
 clone code to local.
   
-  git clone https://github.com/SCVA/featmap-docker
+    git clone https://github.com/SCVA/featmap-docker
 
 Execute in the project directory:
 
-  docker compose up -d
+    docker compose up -d
 
 ## How to use
 
