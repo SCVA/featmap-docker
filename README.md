@@ -6,7 +6,9 @@ pre-built featmap docker image &amp; configuration.
 ## How to install
 
 1. clone code to local.
-2. Execute in the project directory: `docker compose up -d`
+git clone https://github.com/SCVA/featmap-docker
+3. Execute in the project directory:
+docker compose up -d
 
 ## How to use
 
